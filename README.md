@@ -1,3 +1,3 @@
 README image test
 
-![SANLAM]{}
+![SANLAM]{Pic of ME 2.jpg}
